@@ -293,8 +293,8 @@ class ObfuscationObjective:
 
             # ========== 软约束 3: 物理延迟 ==========
             #消融实验对比，注释该约束
-            # latency_violation = self._check_physical_latency_violation(matrix)
-            # penalty += self.latency_penalty_weight * latency_violation
+            latency_violation = self._check_physical_latency_violation(matrix)
+            penalty += self.latency_penalty_weight * latency_violation
 
             # ========== 目标1: 关键节点得分 ==========
             try:
