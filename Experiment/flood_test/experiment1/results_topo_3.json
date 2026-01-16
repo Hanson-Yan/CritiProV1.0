@@ -1,0 +1,17 @@
+{
+    "baseline": {
+        "throughput_Mbps": 5.68,
+        "loss_percent": 0.49,
+        "avg_RTT_ms": 442.883
+    },
+    "true_attack": {
+        "throughput_Mbps": 2.39,
+        "loss_percent": 0.75,
+        "avg_RTT_ms": 441.581
+    },
+    "fake_attack": {
+        "throughput_Mbps": 5.26,
+        "loss_percent": 0.5,
+        "avg_RTT_ms": 441.365
+    }
+}
