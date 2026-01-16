@@ -1,0 +1,3 @@
+host_num: 10
+switch_num: 15
+connect_switch_order: 0, 3, 4, 6, 7, 8, 10, 11, 13, 14
