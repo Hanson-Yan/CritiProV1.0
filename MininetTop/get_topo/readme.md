@@ -1,1 +1,0 @@
-Put the data from the **Internet Topology Zoo** into the **data** folder.
