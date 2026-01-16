@@ -1,3 +1,0 @@
-原始 Jaccard: 1.0000
-Precision: 1.0000, Recall: 1.0000, F1: 1.0000
-Overlap coefficient: 1.0000
